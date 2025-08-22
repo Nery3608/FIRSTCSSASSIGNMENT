@@ -1,0 +1,72 @@
+body {
+    background: radial-gradient(circle, black, darkslategray);
+    perspective: 200px;
+}
+
+header {
+    color: powderblue;
+    font-family: Georgia, cursive;
+}
+
+h1 {
+    color: skyblue;
+    font-family: Arial, cursive;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 1px ;
+}
+
+h1:hover {
+    
+}
+
+h2 {
+    color: wheat;
+    font-family: Arial, cursive;
+}
+
+h3 {
+    color: lightseagreen;
+    font-family: "Bookman Old Style", cursive;
+ }
+
+nav {
+    margin-left: 650px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 650px;
+}
+
+nav li {
+    display: inline;
+}
+
+a {
+    font-family: cursive;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+/* Main content styles */
+main {
+    position: relative;
+    /* Add main styles */
+}
+
+section {
+        margin-left: 650px;
+}
+
+p {
+    color: aquamarine;
+}
+
+footer {
+    margin-left: 650px;
+}
