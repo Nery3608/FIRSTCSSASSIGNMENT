@@ -17,7 +17,9 @@ h1 {
 }
 
 h1:hover {
-    
+    color: wheat;
+    font-size: 50px;
+    font-family: Georgia, cursive;
 }
 
 h2 {
